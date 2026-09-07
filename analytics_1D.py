@@ -12,3 +12,5 @@ print("Net sales: ", net_sales)
 print("Peak sales; ", peak_sales)
 print("Average net sale:", average_net_sales)
 print("Sum of peak sales:", total_revenue)
+
+#a
